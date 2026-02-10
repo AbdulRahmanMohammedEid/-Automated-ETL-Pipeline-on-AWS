@@ -1,4 +1,3 @@
-# [project walkthrough video](https://drive.google.com/file/d/1nXLE2_FaxDRSvGB3mlbFhKeqYteRqCdc/view?usp=drive_link)
 # overview
 An **end-to-end automated ETL (Extract, Transform, Load) pipeline** built entirely on AWS services. This solution enables fully automated data processing: simply upload a CSV file to an S3 bucket, and the system automatically triggers glue job, loads results to a destination bucket, and sends email notifications upon job completion—all without manual intervention.
 
